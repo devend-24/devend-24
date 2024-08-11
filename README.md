@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-🌱 I’m currently Data Analysis using Python(Numpy,Pandas,Matplotlib,Seaborn)<br>
+🌱 I’m currently learning Data Analysis using Python(Numpy,Pandas,Matplotlib,Seaborn)<br>
+    Skills - MySQL, PostgreSQL, Python<br>
 👯 I’m looking to collaborate in Hackathons<br>
 📫 How to reach me: devendramehetre@gmail.com<br>
 
