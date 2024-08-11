@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-🌱 I’m currently learning Postgresql<br>
+🌱 I’m currently Data Analysis using Python(Numpy,Pandas,Matplotlib,Seaborn)<br>
 👯 I’m looking to collaborate in Hackathons<br>
 📫 How to reach me: devendramehetre@gmail.com<br>
 
