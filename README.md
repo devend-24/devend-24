@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate in Hackathons<br>
 📫 How to reach me: devendramehetre@gmail.com<br>
 
-<! --- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devend-24)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devend-24)](https://github.com/anuraghazra/github-readme-stats)
